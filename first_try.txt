@@ -1,1 +1,2 @@
+import re
 print('创建一个新文件的尝试')
